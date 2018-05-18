@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F72 -DL -O11111114 -fo4 -N"C:\data_SK_MD\SKMD_Project\SKMD_Projects\BOGRA_PROJECTS\GABTOLI_\BSK_METER_1\BSK_METER.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\data_SK_MD\SKMD_Project\SKMD_Projects\BOGRA_PROJECTS\GABTOLI_\BSK_METER_1\" -SP"C:\data_SK_MD\SKMD_Project\SKMD_Projects\BOGRA_PROJECTS\GABTOLI_\BSK_METER\" "BSK_METER.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_A.mcl" "__Lib_PWM_c2.mcl" "__Lib_SPI_c345.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 144 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 31 ms	 
+diagnostics: 0	122	Compilation Started	BSK_METER.c
+diagnostics: 294	123	Compiled Successfully	BSK_METER.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 45 (31%)  Free RAM (bytes): 99 (69%)	Used RAM (bytes): 45 (31%)  Free RAM (bytes): 99 (69%)
+hint: 0	1144	Used ROM (program words): 1955 (95%)  Free ROM (program words): 93 (5%)	Used ROM (program words): 1955 (95%)  Free ROM (program words): 93 (5%)
+diagnostics: 0	125	Project Linked Successfully	BSK_METER.mcppi
+diagnostics: 0	128	Linked in 187 ms	 
+diagnostics: 0	129	Project 'BSK_METER.mcppi' completed: 374 ms	 
+diagnostics: 0	103	Finished successfully: 04 Oct 2014, 01:31:14	BSK_METER.mcppi
